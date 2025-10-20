@@ -7,11 +7,11 @@
 
 ## Sprints
 ### Sprint 1: Introducción a Github
-### Sprint 2: SQL
-### Sprint 3: SQL
-### Sprint 4: SQL
+### Sprint 2: SQL 1
+### Sprint 3: SQL 2
+### Sprint 4: SQL 3
 ### Sprint 5: Power BI 1
 ### Sprint 6: Power BI 2
 ### Sprint 7: Python basics
-### Sprint 8: Python transformation and visualizations
+### Sprint 8: Python transformations and visualizations
 ### Sprint 9: MongoDB
